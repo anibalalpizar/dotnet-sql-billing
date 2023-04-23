@@ -1,0 +1,15 @@
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.csproj.AssemblyReference.cache
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet_facturacion.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet_facturacion.Properties.Resources.resources
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.csproj.GenerateResource.cache
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.csproj.CoreCompileInputs.cache
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\bin\Debug\dotnet-facturacion.exe.config
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\bin\Debug\dotnet-facturacion.exe
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\bin\Debug\dotnet-facturacion.pdb
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.csproj.CopyComplete
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.exe
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet-facturacion.pdb
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet_facturacion.Layers.UI.Filtros.frmFiltroCliente.resources
+C:\Users\anibal\source\repos\dotnet-facturacion\dotnet-facturacion\obj\Debug\dotnet_facturacion.Layers.UI.Filtros.frmFiltroElectronico.resources
